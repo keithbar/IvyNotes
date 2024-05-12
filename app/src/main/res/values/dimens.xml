@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_note_list_item">8dp</dimen>
+    <dimen name="spacing_note_list">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="font_size_header">32.sp</dimen>
+    <dimen name="padding_large">32.dp</dimen>
+    <dimen name="pref_font_size_small">8sp</dimen>
+    <dimen name="pref_font_size_medium">16sp</dimen>
+    <dimen name="pref_font_size_large">32sp</dimen>
+    <dimen name="font_size_nav_menu">24sp</dimen>
+    <dimen name="spacing_preferences">16dp</dimen>
+    <dimen name="padding_medium">24dp</dimen>
+    <dimen name="font_size_preferences">16sp</dimen>
+    <dimen name="padding_extra_large">64dp</dimen>
+    <dimen name="font_size_preferences_options">14sp</dimen>
+</resources>

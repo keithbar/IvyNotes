@@ -1,0 +1,1 @@
+Ivy Notes is a simple note taking app created for SDEV 264 at Ivy Tech.

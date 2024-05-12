@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Ivy Notes</string>
+    <string name="navigation_preferences">Preferences</string>
+    <string name="navigation_help">Help</string>
+    <string name="navigation_show_favorites">Show Favorites</string>
+    <string name="navigation_show_all">Show All</string>
+    <string name="credits">Made by Keith Barber\nfor SDEV 264 at Ivy Tech</string>
+    <string name="preferences">Preferences</string>
+    <string name="pref_text_size">Text Size</string>
+    <string name="pref_text_size_small">Small</string>
+    <string name="pref_text_size_medium">Medium</string>
+    <string name="pref_text_size_large">Large</string>
+    <string name="pref_font">Font</string>
+    <string name="help">About Ivy Notes</string>
+    <string name="help_text">Ivy Notes was made by Keith Barber for SDEV 264 at Ivy Tech.\n\nTap a note to edit it. Tap the star to add the note to your favorites. On the note list screen\'s menu, you can toggle showing all notes or just your favorites.\n\nThe preferences screen allows you to change the size of the text displayed in your notes, as well as enable dark mode.</string>
+    <string name="new_note">Create new note</string>
+    <string name="delete">Delete note</string>
+    <string name="save">Save note</string>
+    <string name="favorite_toggle">Toggle favorite</string>
+    <string name="pref_color_scheme_default">System Default</string>
+    <string name="pref_color_scheme_light">Light Mode</string>
+    <string name="pref_color_scheme_dark">Dark Mode</string>
+    <string name="pref_color_scheme">Color Scheme</string>
+    <string name="delete_dialog">Are you sure you want to delete this note?</string>
+    <string name="cancel">Cancel</string>
+    <string name="pref_font_style">Font Style</string>
+    <string name="pref_font_style_default">Default</string>
+    <string name="pref_font_style_serif">Serif</string>
+    <string name="pref_font_style_monospace">Monospace</string>
+    <string name="pref_font_style_cursive">Cursive</string>
+</resources>
