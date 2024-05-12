@@ -112,12 +112,15 @@ fun IvyNotesApp(
         drawerContent = {
             ModalDrawerSheet{
                 // Navigation menu header
-                Text(
-                    text = stringResource(R.string.app_name),
-                    fontSize = dimensionResource(R.dimen.font_size_header).value.sp,
-                    fontFamily = fontFamily,
+                Icon(
+                    painter = painterResource(R.drawable.logo),
+                    contentDescription = stringResource(R.string.app_name),
                     modifier = Modifier
-                        .padding(dimensionResource(R.dimen.padding_large))
+                        .fillMaxWidth(0.5f)
+                        .padding(
+                            start = dimensionResource(id = R.dimen.padding_large),
+                            top = dimensionResource(id = R.dimen.padding_large)
+                        )
                 )
 
                 // Menu item to toggle showing favorite notes
